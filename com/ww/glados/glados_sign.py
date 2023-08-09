@@ -6,10 +6,10 @@ from requests import post
 TG_TOKEN = 'xxx'  # TG机器人的TOKEN
 CHAT_ID = 'xxx'  # 推送消息的CHAT_ID
 # glados网站的cookie
-Cookie = 'xxxxxxxxxxx'
+Cookie = 'koa:sess=eyJ1c2VySWQiOjI0NDI1NiwiX2V4cGlyZSI6MTcxNDExNzU4MTU1MywiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=xofhyNbEmAxqtZd8K9przXSD8yU; _gid=GA1.2.1976990939.1691593878; _ga_CZFVKMNT9J=GS1.1.1691593877.12.1.1691593960.0.0.0; _ga=GA1.2.709597930.1687432316'
 
 # 新版Server酱配置
-server_key = 'xxxxxxxxxx'
+server_key = 'SCT207365Tm33HXrHnMvUnuReb5JjxcDDy'
 
 # 企业微信配置
 corpid = 'xxx'     # 上面提到的你的企业ID
